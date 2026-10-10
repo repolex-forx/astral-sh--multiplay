@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "astral-sh",
+  "repo": "multiplay",
+  "versions": [
+    {
+      "commit": "ff7ced1bb3d2ca3c0a2ab1740e4426eff4f9cd33",
+      "parsed_at": "2026-10-10T04:28:52.322649+00:00",
+      "filetree": "filetree/ff7ced1bb3d2ca3c0a2ab1740e4426eff4f9cd33.nq.gz",
+      "blobs": [
+        "blob/46ea8d04bccbe31ccdd4338cb5097c7dcf611122.nq.gz",
+        "blob/8c66ff454270eaac11b4f5c34dfb5d399a230e27.nq.gz",
+        "blob/505a3b1ca2716907d5b292ab90c36df043c42bb6.nq.gz",
+        "blob/87f454affbc78da250945d3024c9d3260b899437.nq.gz",
+        "blob/5a63018d805619904e2cd07b25383e44a84e4161.nq.gz",
+        "blob/991e840b80c24cb0ce67da79a6a31f2b1a5b3a32.nq.gz",
+        "blob/659abefa0ff7b643557328be18b2ce4e421bc21a.nq.gz",
+        "blob/b405fa3a9597cb2de17097b7f8e5dde8f9baac78.nq.gz",
+        "blob/6a3d6a3ce96a629610411af6b47186b39bccdcc0.nq.gz",
+        "blob/351663b181b68e2b88173bd86cdedfecda955a25.nq.gz",
+        "blob/1475a4b9fe63deffa6fa6f564686ceff45a11323.nq.gz",
+        "blob/494d87f70ddc9c1cc56115eacff48e08e475d91c.nq.gz",
+        "blob/7ebc680fd160cb6702098883e1bfffb21d448126.nq.gz",
+        "blob/7ca0b98cac4fc49d1382dc23cb0cfa9a7dd5a485.nq.gz",
+        "blob/6324d401a069f4020efcf0ff07442724b52f47c2.nq.gz",
+        "blob/9e311905df9993f472f876028b46c26ae595e163.nq.gz",
+        "blob/3a52d7f122416bcd0afcc16fc27f023826f0a973.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}

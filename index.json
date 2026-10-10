@@ -1,0 +1,11 @@
+{
+  "org": "astral-sh",
+  "repo": "multiplay",
+  "versions": [
+    {
+      "commit": "ff7ced1bb3d2ca3c0a2ab1740e4426eff4f9cd33",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:31:23.293955+00:00"
+    }
+  ]
+}
